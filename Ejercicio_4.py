@@ -1,4 +1,5 @@
 import math
+from enum import Enum
 
 class TrianguloTipo(Enum):
     EQUILATERO = "Equilátero"
