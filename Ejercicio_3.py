@@ -1,3 +1,5 @@
+from enum import Enum
+
 class TipoCombustible(Enum):
     GASOLINA    = "Gasolina"
     BIOETANOL   = "Bioetanol"
